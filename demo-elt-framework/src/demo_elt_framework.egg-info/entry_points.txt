@@ -1,2 +1,0 @@
-[console_scripts]
-demo-elt = demo_elt_framework.cli:main
