@@ -1,0 +1,15 @@
+LICENSE
+pyproject.toml
+src/demo_elt_framework/__init__.py
+src/demo_elt_framework/_version.py
+src/demo_elt_framework/cli.py
+src/demo_elt_framework/exceptions.py
+src/demo_elt_framework/math_ops.py
+src/demo_elt_framework/transforms.py
+src/demo_elt_framework.egg-info/PKG-INFO
+src/demo_elt_framework.egg-info/SOURCES.txt
+src/demo_elt_framework.egg-info/dependency_links.txt
+src/demo_elt_framework.egg-info/entry_points.txt
+src/demo_elt_framework.egg-info/top_level.txt
+tests/test_math_ops.py
+tests/test_transforms.py
